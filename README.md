@@ -1,4 +1,4 @@
-🎙️ "The most important step a man can take. It's not the first one, is it? It's the next one. *Always the next step.*"🎙
+🎙️ "The most important step a man can take. It's not the first one, is it? It's the next one. *Always the next step.*
 
 👀 Interests - mobile & web development, IoT
 
