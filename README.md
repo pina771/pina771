@@ -1,9 +1,9 @@
-🎙️ "The most important step a man can take. It's not the first one, is it? It's the next one. *Always the next step.*"
+a voluntary effort to accomplish something difficult and worthwhile
 
 👀 Interests - mobile & web development, IoT
 
-📚 Studying - uni stuff, Vue.js, Node/Express  
-🗣️ Languages - Javascript, HTML, CSS, Dart, Java, Python, SQL
+📚 Studying - uni stuff, Vue.js, Node/Express, NestJS
+🗣️ Languages - Javascript, Typescript, HTML, CSS, Dart, Java, Python, SQL
 
 🎮 Hobbies - indie games, playing music & basketball 
 
