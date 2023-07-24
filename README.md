@@ -3,6 +3,7 @@ a voluntary effort to accomplish something difficult and worthwhile
 🛠 mostly web development, sometimes more
 
 📃 JavaScript, TypeScript, Go & Java
+
 📦 React.js, NextJS, Spring
 
 interested in: Go, Svelte, techniques & patterns
