@@ -6,7 +6,7 @@ a voluntary effort to accomplish something difficult and worthwhile
 
 📦 React.js, NextJS, Spring
 
-interested in: Go, Svelte, techniques & patterns
+interested in: Go, techniques/patterns/architecture
 
 FER-alumnus
 <!---
