@@ -4,9 +4,7 @@ a voluntary effort to accomplish something difficult and worthwhile
 
 📃 JavaScript, TypeScript, Go & Java
 
-📦 React.js, NextJS, Spring
-
-interested in: Go, techniques/patterns/architecture
+interested in: Go, Remix, techniques/patterns/architecture
 
 FER-alumnus
 <!---
